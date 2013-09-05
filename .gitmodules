@@ -1,0 +1,3 @@
+[submodule "inc/adodb"]
+	path = inc/adodb
+	url = https://github.com/bitweaver/adodb.git
